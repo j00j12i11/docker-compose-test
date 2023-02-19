@@ -1,0 +1,23 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore Gatsby cache directory
+.cache/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore Visual Studio Code-specific files
+.vscode/
+
+# Ignore Mypy cache files
+.mypy_cache/
+
+# Ignore pytest cache files
+.pytest_cache/
+
+# Ignore coverage reports
+.coverage/
